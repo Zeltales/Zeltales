@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zeltales
-- 👀 I’m interested in all 
-- 🌱 I’m currently learning C++
-- 📫 How to reach me discord Zeltales#8854 or instagram Zeltales 
+- 👀 𝕸𝖔𝖓𝖘𝖎𝖊𝖚𝖗 𝕮𝖗𝖆𝖈𝖔𝖙𝖙𝖊
+- ̔̏̊
+- 
+
 
