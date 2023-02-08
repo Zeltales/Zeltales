@@ -1,9 +1,26 @@
-   <p  align="center">
+# <p align="center">Hello and Welcome</p>
+  
+
+        
+    
+
+<p  align="center">
 <img align="center" width="100%" src="https://i.imgur.com/wHTnmA1.png"
    </p>
  <p align="center">
 <img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035642700508180480/Welcome2-1-3-11-1.gif"
   </p>
+    
+
+<p  align="left">
+Spotify 24/7
+   </p>
+   
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=le3ensvjj5x10ade4fiyyatnd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false) 
+
+
+Discord Zeltales#8100
+
   
 
 
