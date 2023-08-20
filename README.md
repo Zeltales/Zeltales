@@ -68,8 +68,6 @@ Discord Zeltales#8100
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
 </div>
 
- ## Github Stats Pov My profil is private  
-<img src="https://github-readme-stats.vercel.app/api?username=Zeltales&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
 
 <div align="center">
